@@ -1,0 +1,11 @@
+{
+  "name": "{{cookiecutter.project_dir}}",
+  "version": "1.0.0",
+  "description": "{{cookiecutter.project_description}}",
+  "main": "src/index.html",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "author": "",
+  "license": "MIT"
+}
